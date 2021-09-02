@@ -2,13 +2,13 @@
 
 ## How to use?
 
-1. Create a button in Webflow or Wordpress
-2. Assign it an HTML ID `connect` in button settings
-3. Create a Custom Code block in Webflow or Wordpress
+1. Create a button in Webflow / Wordpress
+2. Assign it an HTML ID `connect` in button settings. [Guide for Webflow](https://university.webflow.com/lesson/section-link)
+3. Create a Custom Code block in Webflow / Wordpress
 4. Copy & paste this code in the custom code block:
 ```html
 <script>
-// Put your Webflow / WordPress "Connect Metamask" button ID here
+// Put your button ID here starting with # (if other than "#connect")
 window.buttonID = "#connect"
 </script>
 <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js" />
