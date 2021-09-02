@@ -8,7 +8,7 @@
 4. Copy & paste this code in the custom code block:
 ```html
 <script>
-// Put your button ID here starting with # (if other than "#connect")
+// Change to custom button ID, starting with # (optional)
 window.buttonID = "#connect"
 </script>
 <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js" />
