@@ -16,4 +16,7 @@ window.buttonID = "#connect"
 ```
 5. Done! "Connect MetaMask" button is working!
 
-If you want to allow minting on your NFT website and can't code, reach out to us via https://buildship.dev, or, if you can code, check out https://github.com/buildship-dev/generativeNFT-template
+## Need to setup NFT sale?
+Check out free minting widget for Webflow/Wix/Tilda: https://github.com/buildship-dev/webflow-nft-components
+
+If you want to allow minting on your NFT website and can't code, reach out to us via https://buildship.xyz. If you can code, check out https://github.com/buildship-dev/nft-contracts
